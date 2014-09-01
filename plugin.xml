@@ -23,11 +23,10 @@ xmlns:android="http://schemas.android.com/apk/res/android"
            id="org.apache.cordova.file.1_3_0"
       version="1.3.0">
     <name>File</name>
-    <description>Cordova File Plugin</description>
+    <description>Cordova File Plugin 1.3.0</description>
     <license>Apache 2.0</license>
     <keywords>cordova,file</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-file.git</repo>
-    <issue>https://issues.apache.org/jira/browse/CB/component/12320651</issue>
+    <repo>https://github.com/julia79/mmagrar.git</repo>
 
     <js-module src="www/DirectoryEntry.js" name="DirectoryEntry">
         <clobbers target="window.DirectoryEntry" />
